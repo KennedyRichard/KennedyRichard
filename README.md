@@ -1,7 +1,7 @@
 ### Hello, Kennedy here!
 
 - 🔭 I’m [Kennedy Richard Silva Guerra](https://kennedyrichard.com), born in 1990, he/him/cis
-- 📫 you can reach me on <a rel="me" href="https://fosstodon.org/@KennedyRichard">mastodon</a>, [twitter](https://twitter.com/KennedyRichard) or [email](mailto:kennedy@kennedyrichard.com)
+- 📫 you can reach me on [BlueSky](https://bsky.app/profile/kennedyrichard.com), <a rel="me" href="https://fosstodon.org/@KennedyRichard">Mastodon/Fosstodon</a>, [Twitter/X](https://x.com/KennedyRichard) or [email](mailto:kennedy@kennedyrichard.com)
 - 🌱 I released the [Indie Python project](https://github.com/IndiePython) on June 18th, 2022 (a personal project to promote fun and learning by developing and publishing free open-source apps, games and content)
 
 The flagship of the Indie Python project is the [nodezator app](https://github.com/IndiePython/nodezator) and I work on it most of the time. Here's a screenshot:
